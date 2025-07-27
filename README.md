@@ -68,14 +68,16 @@ DB_PASSWORD=yourpassword
 DB_NAME=med_tracker
 JWT_SECRET=your_secret_key
 
+```
+### 🌐 Frontend Setup
+```bash
 
-🌐 Frontend Setup
 cd client
 npm install
 npm start
 
 Frontend will run on http://localhost:3000/
-
+```
 ✅ TODO / Enhancements
  Add calendar view to visualize schedules.
 
