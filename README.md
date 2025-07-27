@@ -62,12 +62,6 @@ npm install
 # Create a `.env` file with your DB credentials
 npm start
 
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=med_tracker
-JWT_SECRET=your_secret_key
-
 ```
 ### 🌐 Frontend Setup
 ```bash
